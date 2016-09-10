@@ -1,0 +1,5 @@
+kilo	3
+mega	6
+giga	9
+tera	12
+
